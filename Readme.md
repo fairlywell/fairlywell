@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fairlywell&label=Profile%20views&color=0e75b6&style=flat" alt="fairlywell" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddybaddog" alt="buddybaddog" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fairlywell" alt="fairlywell" /></a> </p>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
